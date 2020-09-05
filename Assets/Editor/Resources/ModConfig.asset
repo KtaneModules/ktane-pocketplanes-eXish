@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: pocketPlanesModule
+  title: Pocket Planes
+  author: mcd573, eXish
+  description: 'Find out the destination city, plane, and cargo/passengers for a Pocket
+    Planes Airlines flight.
+
+
+    Originally a manual challenge.
+
+
+    HTML: https://ktane.timwi.de/HTML/Pocket%20Planes.html
+
+    PDF: https://ktane.timwi.de/PDF/Pocket%20Planes.pdf
+
+
+    Pocket Planes (pocketPlanesModule) v1.0.3
+
+    Module Implemented by eXish
+
+    Design and Concept by mcd573
+
+    Twitch Plays supported'
+  version: 1.0.3
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: efbc5b1c0009e5c4fb1a3aef5bc870ed, type: 3}
