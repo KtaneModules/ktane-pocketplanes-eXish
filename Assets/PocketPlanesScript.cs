@@ -32,7 +32,7 @@ public class PocketPlanesScript : MonoBehaviour {
     private string[] glenIncorr = new string[] { "The wife wants a new ring from XXX.", "Well, I’ve been invited to my friend’s wedding, in XXX.", "How much does it cost to purchase a meal in XXX?", "Asking for a friend: What hotel in XXX is the best?" };
     private string[] planeNames = new string[] { "Bearclaw-C", "Kangaroo-P", "Airvan-M", "Birchcraft-M" };
     private string[] itemNames = new string[] { "Live Bees", "Tentacles", "Pianos", "Bandsaws", "Uranium Rods", "Rare Vase", "Leaf Blowers", "Fried Chicken", "Pumpkins" };
-    private string[] passNames = new string[] { "Max D.", "Nick S.", "Victor L.", "Brendan K.", "David P-V.", "Thomas S.", "Caleb C.", "Daniel P.", "Simon J.", "Alex J." };
+    private string[] passNames = new string[] { "Max D.", "Nick S.", "Victor L.", "Brendan K.", "David P-V.", "Thomas S.", "Caleb C.", "Simon J.", "Alex J." };
     private List<int> planeIndexes = new List<int>() { 0, 1, 2, 3 };
     private List<int> orderSelected = new List<int>();
     private List<int> correctOrder = new List<int>();
