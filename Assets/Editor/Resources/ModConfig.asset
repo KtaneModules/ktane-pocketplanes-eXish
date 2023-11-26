@@ -26,13 +26,13 @@ MonoBehaviour:
     PDF: https://ktane.timwi.de/PDF/Pocket%20Planes.pdf
 
 
-    Pocket Planes (pocketPlanesModule) v1.0.6
+    Pocket Planes (pocketPlanesModule) v1.0.7
 
     Module Implemented by eXish
 
     Design and Concept by mcd573
 
     Twitch Plays supported'
-  version: 1.0.6
+  version: 1.0.7
   outputFolder: build
   previewImage: {fileID: 2800000, guid: efbc5b1c0009e5c4fb1a3aef5bc870ed, type: 3}
